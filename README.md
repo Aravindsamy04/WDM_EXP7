@@ -111,8 +111,8 @@ plt.show()
 
 ### Output:
 
+![Screenshot 2024-10-19 142344](https://github.com/user-attachments/assets/cefb25cb-25dd-40df-998c-228d0c1bcbcb)
 
-![Uploading Screenshot 2024-10-19 142344.png…]()
 
 
 ### Result:
