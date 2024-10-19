@@ -111,7 +111,9 @@ plt.show()
 
 ### Output:
 
-![Screenshot 2024-10-19 140738](https://github.com/user-attachments/assets/b5ce0228-1087-48c4-83ce-954ee8e3c289)
+
+![Uploading Screenshot 2024-10-19 142344.png…]()
+
 
 ### Result:
 The program run successfully.
